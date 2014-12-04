@@ -14,7 +14,6 @@
     <RootNamespace>WebApplication2</RootNamespace>
     <AssemblyName>WebApplication2</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <EnableUpdateable>false</EnableUpdateable>
     <MvcBuildViews>true</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
